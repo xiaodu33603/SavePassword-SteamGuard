@@ -1,0 +1,14 @@
+C:\Users\xiaodu33603\source\repos\SavePass\SavePass\bin\Debug\SavePass.exe.config
+C:\Users\xiaodu33603\source\repos\SavePass\SavePass\bin\Debug\SavePass.exe
+C:\Users\xiaodu33603\source\repos\SavePass\SavePass\bin\Debug\SavePass.pdb
+C:\Users\xiaodu33603\source\repos\SavePass\SavePass\obj\Debug\SavePass.csprojAssemblyReference.cache
+C:\Users\xiaodu33603\source\repos\SavePass\SavePass\obj\Debug\SavePass.Properties.Resources.resources
+C:\Users\xiaodu33603\source\repos\SavePass\SavePass\obj\Debug\SavePass.csproj.GenerateResource.cache
+C:\Users\xiaodu33603\source\repos\SavePass\SavePass\obj\Debug\SavePass.csproj.CoreCompileInputs.cache
+C:\Users\xiaodu33603\source\repos\SavePass\SavePass\obj\Debug\SavePass.exe
+C:\Users\xiaodu33603\source\repos\SavePass\SavePass\obj\Debug\SavePass.pdb
+C:\Users\xiaodu33603\source\repos\SavePass\SavePass\bin\Debug\Newtonsoft.Json.dll
+C:\Users\xiaodu33603\source\repos\SavePass\SavePass\bin\Debug\Newtonsoft.Json.xml
+C:\Users\xiaodu33603\source\repos\SavePass\SavePass\obj\Debug\SavePass.csproj.CopyComplete
+C:\Users\xiaodu33603\source\repos\SavePass\SavePass\obj\Debug\SavePass.MainForm.resources
+C:\Users\xiaodu33603\source\repos\SavePass\SavePass\obj\Debug\SavePass.SteamCode.resources
